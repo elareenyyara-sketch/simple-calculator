@@ -1,8 +1,7 @@
 # simple-calculator
 A simple Python calculator that performs basic arithmetic operations (+, -, *, /, %).
 ```python
-print("=== Welcome to the Simple Calculator ===")
-
+print("Welcome! Ready to calculate your answer?")
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 operation = input("Choose an operation (+, -, *, /, %): ").strip()
